@@ -1,4 +1,4 @@
-# :robot: 3.6.0 - Understanding Capacitors
+# :robot: 3.8.0 - Understanding Capacitors
 
 ## 🤓 Overview and learning outcomes 
 
