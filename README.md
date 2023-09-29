@@ -16,7 +16,7 @@ Import the file in this repository titled, "sample_circuit.txt" into the Circuit
 
 ## 📝 Next steps
 
-1. Build the sample circuit from the file here.
+1. Build the sample circuit from the file in this repo (open with the [Circuit Simulator app](https://thumbsdb.herokuapp.com/circuit/)).
 2. Test it to make sure it is working (the LED is lighting up).
 3. Try some different capacitors.
 4. Record a video of the working circuit.
